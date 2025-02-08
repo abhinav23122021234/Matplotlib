@@ -1,7 +1,3 @@
-Below is an example of a README file (in Markdown) that describes the content of each cell from your repository without including any actual code. You can adjust or expand on these descriptions as needed.
-
----
-
 # Matplotlib
 
 This repository provides a comprehensive walkthrough of Matplotlib’s features and workflows for data visualization in Python. It is designed to guide users—from beginners to advanced—through the process of creating, customizing, and saving plots. All the example code is contained in the `main.py` file. This README explains the purpose and content of each section without including the code itself.
